@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pranavsingh9471@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vXktdVlGbs4_soXS9wmwr5ifH11Ankcx/view?usp=drive_link](https://drive.google.com/file/d/1vXktdVlGbs4_soXS9wmwr5ifH11Ankcx/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vXktdVlGbs4_soXS9wmwr5ifH11Ankcx/view?usp=drive_link](https://drive.google.com/file/d/1ne0MPTKKfp9W7FFn4hIwRxIBx-0UCqEW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
