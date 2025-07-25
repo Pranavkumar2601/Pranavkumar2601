@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">All-time Learner Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prnavkumar2601&label=Profile%20views&color=0e75b6&style=flat" alt="prnavkumar2601" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Several Courses**
 
-- 💬 Ask me about **Java, Ml , Python,Html,Css , Angular,C,SQL,React,Cloud-Services**
+- 💬 Ask me about **Java, ML, Python, HTML,  CSS, Angular, C, SQL, React, Cloud-Services, .Net**
 
 - 📫 How to reach me **pranavsingh9471@gmail.com**
 
