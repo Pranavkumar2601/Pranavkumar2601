@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prnavkumar2601&label=Profile%20views&color=0e75b6&style=flat" alt="prnavkumar2601" /> </p>
 
-- 🔭 I’m currently working on [Beyond The Boundary](https://github.com/Pranavkumar2601/SmartPaisa)
+- 🔭 I’m currently working on [SmartPaisa App](https://github.com/Pranavkumar2601/SmartPaisa)
 
 - 🌱 I’m currently learning **Several Courses**
 
