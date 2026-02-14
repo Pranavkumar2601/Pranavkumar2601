@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [TripVault](https://github.com/Pranavkumar2601/TripVault-VirtualPool-Storage)
 
-- 🌱 I’m currently learning **Several Courses**
+- 🌱 I’m currently learning **Optimization in pythton**
 
-- 💬 Ask me about **Java, ML, Python, HTML,  CSS, Angular, C, SQL, React, Cloud-Services, .net**
+- 💬 Ask me about **Java, ML, Python, HTML,  CSS, Angular, C, SQL, React, Cloud-Services, .net, Next.JS, Flutter**
 
 - 📫 How to reach me **pranavsingh9471@gmail.com**
 
