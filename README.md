@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TripVault](https://github.com/Pranavkumar2601/TripVault-VirtualPool-Storage)
 
-- 🌱 I’m currently learning **Optimization in pythton**
+- 🌱 I’m currently learning **Optimization in python**
 
 - 💬 Ask me about ** ML, Python, HTML, CSS, Angular, C, SQL, React, Cloud-Services, .net, Next.JS, Flutter, XAML**
 
